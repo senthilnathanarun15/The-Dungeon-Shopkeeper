@@ -53,7 +53,7 @@ pip install streamlit
 
 ### 3. Run the Application
 ```bash
-streamlit run app.py
+streamlit run the_dungen_shopkeeper.py
 ```
 
 ---
@@ -61,13 +61,8 @@ streamlit run app.py
 ## 📁 Project Structure
 
 ```text
-├── app.py              # Main Streamlit game code & logic
+├── the_dungen_shopkeeper.py             # Main Streamlit game code & logic
 ├── README.md           # Project documentation
-└── requirements.txt    # Python dependencies
 ```
 
 ---
-
-## 📝 License
-
-This project is open-source under the MIT License. Feel free to fork, customize, and add new RPG mechanics or customer types!
