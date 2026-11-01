@@ -1,4 +1,4 @@
-# The Dungeon Shopkeeper 🪙
+# The Dungeon Shopkeeper 
 
 A simple shop management game built with Python and Streamlit. You manage your inventory, set prices for items, and run through daily shop cycles to see if local adventurers are willing to buy your gear.
 
@@ -13,6 +13,8 @@ I wanted to build a quick RPG shop simulator where you balance your gold while k
 * **Day Simulator:** Advance days to trigger customer visits with randomized budgets based on item value.
 * **Live Event Log:** Tracks all sales, missed sales, and shop restocks at the end of each day.
 * **Custom UI:** Custom background styling and two-column layout for buying and price editing.
+* <img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/003f2edb-7c23-4dff-a88d-3067bdf4b7dc" />
+
 
 ## How to Run
 
