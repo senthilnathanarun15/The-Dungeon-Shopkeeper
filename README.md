@@ -16,7 +16,7 @@ I wanted to build a quick RPG shop simulator where you balance your gold while k
 
 ## How to Run
 
-* **Download Code:** Click the green **Code** button on GitHub and select **Download ZIP**, then extract the files into a folder on your computer.
+* **Download:** Download the file on your computer .
 * **Install Requirements:** Open your terminal or command prompt in that folder and run:
   ```bash
   pip install streamlit
